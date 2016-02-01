@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repositorio para curso Data Scientist Box
+Repositorio para curso Data Scientist's Toolbox
